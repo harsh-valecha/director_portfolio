@@ -1,12 +1,12 @@
+# Director Portfolio Template
+
+A professional and elegant portfolio website template designed for directors and filmmakers to showcase their showreel, selected works, and professional biography.
+
 > **Important**
 > 
 > This is a dummy project and portfolio website template created specifically 
 > to showcase web development skills. It is free and open-source, meaning 
 > anyone can use, modify, or deploy this template for their own needs.
-
-# Director Portfolio Template
-
-A professional and elegant portfolio website template designed for directors and filmmakers to showcase their showreel, selected works, and professional biography.
 
 ## 🚀 Tech Stack
 
