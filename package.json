@@ -1,0 +1,27 @@
+{
+  "name": "director_portfolio",
+  "version": "1.0.0",
+  "description": "A professional and elegant portfolio website template designed for directors and filmmakers to showcase their showreel, selected works, and professional biography.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harsh-valecha/director_portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/harsh-valecha/director_portfolio/issues"
+  },
+  "homepage": "https://github.com/harsh-valecha/director_portfolio#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.62.0",
+    "@types/node": "^26.1.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^7.0.2"
+  }
+}
